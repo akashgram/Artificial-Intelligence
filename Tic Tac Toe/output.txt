@@ -1,0 +1,361 @@
+149-160-215-230:Python Aki$ python agopal-hw1.py 
+Welcome!
+Choose X to play first, O to play second.
+Here is the layout of the board before we start!
+7|8|9
+4|5|6
+1|2|3
+
+Good luck!
+Would you like your marker to be X or O?: x
+  |   |   
+  |   |   
+  |   |   
+Your marker is X
+You go first
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  5
+5
+- | - | - 
+- | X | - 
+- | - | - 
+
+Computer Finished Playing.
+
+- | - | - 
+- | X | - 
+O | - | - 
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  9
+9
+- | - | X 
+- | X | - 
+O | - | - 
+
+Computer Finished Playing.
+
+- | - | X 
+- | X | - 
+O | - | O 
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  7
+7
+X | - | X 
+- | X | - 
+O | - | O 
+
+Computer Finished Playing.
+
+X | - | X 
+- | X | - 
+O | O | O 
+Bot has won!
+Final Board:
+X | - | X 
+- | X | - 
+O | O | O 
+149-160-215-230:Python Aki$ python agopal-hw1.py 
+Welcome!
+Choose X to play first, O to play second.
+Here is the layout of the board before we start!
+7|8|9
+4|5|6
+1|2|3
+
+Good luck!
+Would you like your marker to be X or O?: x
+  |   |   
+  |   |   
+  |   |   
+Your marker is X
+You go first
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  5
+5
+- | - | - 
+- | X | - 
+- | - | - 
+
+Computer Finished Playing.
+
+- | - | - 
+- | X | - 
+O | - | - 
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  4
+4
+- | - | - 
+X | X | - 
+O | - | - 
+
+Computer Finished Playing.
+
+- | - | - 
+X | X | O 
+O | - | - 
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  3
+3
+- | - | - 
+X | X | O 
+O | - | X 
+
+Computer Finished Playing.
+
+O | - | - 
+X | X | O 
+O | - | X 
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  2
+2
+O | - | - 
+X | X | O 
+O | X | X 
+
+Computer Finished Playing.
+
+O | O | - 
+X | X | O 
+O | X | X 
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  9
+9
+O | O | X 
+X | X | O 
+O | X | X 
+Match Drawn	
+
+Final Board:
+O | O | X 
+X | X | O 
+O | X | X 
+149-160-215-230:Python Aki$ python agopal-hw1.py
+Welcome!
+Choose X to play first, O to play second.
+Here is the layout of the board before we start!
+7|8|9
+4|5|6
+1|2|3
+
+Good luck!
+Would you like your marker to be X or O?: x
+  |   |   
+  |   |   
+  |   |   
+Your marker is X
+You go first
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  9
+9
+- | - | X 
+- | - | - 
+- | - | - 
+
+Computer Finished Playing.
+
+- | - | X 
+- | O | - 
+- | - | - 
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  1
+1
+- | - | X 
+- | O | - 
+X | - | - 
+
+Computer Finished Playing.
+
+- | - | X 
+- | O | - 
+X | O | - 
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  8
+8
+- | X | X 
+- | O | - 
+X | O | - 
+
+Computer Finished Playing.
+
+O | X | X 
+- | O | - 
+X | O | - 
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  3
+3
+O | X | X 
+- | O | - 
+X | O | X 
+
+Computer Finished Playing.
+
+O | X | X 
+- | O | O 
+X | O | X 
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  4
+4
+O | X | X 
+X | O | O 
+X | O | X 
+Match Drawn
+
+Final Board:
+O | X | X 
+X | O | O 
+X | O | X 
+149-160-215-230:Python Aki$ python agopal-hw1.py 
+Welcome!
+Choose X to play first, O to play second.
+Here is the layout of the board before we start!
+7|8|9
+4|5|6
+1|2|3
+
+Good luck!
+Would you like your marker to be X or O?: o
+  |   |   
+  |   |   
+  |   |   
+Your marker is O
+Computer goes first
+- | - | - 
+- | X | - 
+- | - | - 
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  1
+1
+- | - | - 
+- | X | - 
+O | - | - 
+
+Computer Finished Playing.
+
+- | - | - 
+- | X | - 
+O | - | X 
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  7
+7
+O | - | - 
+- | X | - 
+O | - | X 
+
+Computer Finished Playing.
+
+O | - | - 
+X | X | - 
+O | - | X 
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  6
+6
+O | - | - 
+X | X | O 
+O | - | X 
+
+Computer Finished Playing.
+
+O | - | X 
+X | X | O 
+O | - | X 
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Your Choice(1-9):  2
+2
+O | - | X 
+X | X | O 
+O | O | X 
+
+Computer Finished Playing.
+
+O | X | X 
+X | X | O 
+O | O | X 
+
+	 -- Match Draw -- 
+	
+Final Board:
+O | X | X 
+X | X | O 
+O | O | X 
