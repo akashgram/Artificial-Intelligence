@@ -1,0 +1,56 @@
+Akashs-MacBook-Pro:Desktop Aki$ python search.py 
+Doing Depth First Search  on easy:
+The solution's cost is: 10.1, and involved expanding 27 verticies
+Finding the solution involved 0.00803399085999 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Breadth First Search on easy:
+The solution's cost is: 2.1, and involved expanding 8 verticies
+Finding the solution involved 0.00215697288513 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic heuristics2 on easy:
+The solution's cost is: 2.1, and involved expanding 3 verticies
+Finding the solution involved 0.00104904174805 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic heuristics2 on easy:
+The solution's cost is: 2.1, and involved expanding 4 verticies
+Finding the solution involved 0.00208210945129 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic heuristics1 on easy:
+The solution's cost is: 2.1, and involved expanding 3 verticies
+Finding the solution involved 0.00233387947083 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic heuristics1 on easy:
+The solution's cost is: 2.1, and involved expanding 4 verticies
+Finding the solution involved 0.00204110145569 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic heuristics2 on medium:
+The solution's cost is: 17.4, and involved expanding 21 verticies
+Finding the solution involved 0.00679397583008 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic heuristics2 on medium:
+The solution's cost is: 17.4, and involved expanding 22 verticies
+Finding the solution involved 0.00774383544922 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic heuristics1 on medium:
+The solution's cost is: 17.4, and involved expanding 22 verticies
+Finding the solution involved 0.00885486602783 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic heuristics1 on medium:
+The solution's cost is: 17.4, and involved expanding 22 verticies
+Finding the solution involved 0.0117409229279 seconds of walltime
+----------------------------------------------------------------------------------
+The solution's cost is: 35.6, and involved expanding 41 verticies
+Finding the solution involved 0.0147860050201 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic heuristics2 on hard:
+The solution's cost is: 35.6, and involved expanding 42 verticies
+Finding the solution involved 0.0152418613434 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic heuristics1 on hard:
+The solution's cost is: 35.6, and involved expanding 42 verticies
+Finding the solution involved 0.0230219364166 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic heuristics1 on hard:
+The solution's cost is: 35.6, and involved expanding 42 verticies
+Finding the solution involved 0.0229880809784 seconds of walltime
+----------------------------------------------------------------------------------
