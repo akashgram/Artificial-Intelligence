@@ -1,5 +1,7 @@
-#Akash Ram Gopal
-#agopal@indiana.edu
+'''
+@authors: Akash Gopal
+@date: 09/04/2015
+'''
 
 import random
 import sys
