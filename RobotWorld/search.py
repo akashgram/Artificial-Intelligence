@@ -1,7 +1,8 @@
-#Akash Ram Gopal
-#agopal@indiana.edu
+'''
+@author: Akash Gopal
+@date: 10/20/2015
+'''
 
-#tested this on silo without the visualization part as it was throwing me an error with it.
 import time
 from heapq import *
 import functools
