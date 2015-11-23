@@ -1,3 +1,8 @@
+'''
+@author: Akash Gopal
+@date: 10/20/2015
+'''
+
 import random
 import gamePlay
 from copy import deepcopy
