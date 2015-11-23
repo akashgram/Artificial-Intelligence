@@ -1,4 +1,4 @@
-	Here, I have developed the following strategy apart from going for the win if the computer has a chance and preventing the opponent from winning:
+	Here, I have developed the following strategy apart from going for the win if the computer has a chance and preventing the opponent from winning.
 	Since the center of the board is crucial to winning, my first rule is that the computer has to occupy the center of the board if playing first or first has to check if it is empty and then occupy it if playing second,
 	Then cover the corners randomly with one major exception: if the opponent has covered the diagonally opposite corners, I have given a rule which tells me to override covering the corner and randomly occupy any of the vacant inner sides so that we lower the probability of losing.
 	If the center and the corners have been occupied, then looked at the inner sides and randomly fill it or block the opponent if necessary.
