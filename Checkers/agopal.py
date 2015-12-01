@@ -8,8 +8,6 @@ import gamePlay
 from copy import deepcopy
 from getAllPossibleMoves import getAllPossibleMoves
 
-# Note: I have made changes in the nextMove function and the main evaluation function.
-
 # Used in the evaluation function
 count = 0
 
@@ -139,9 +137,7 @@ def evaluation(board, color, depth, time):
   if time > 10:
     if depth%2 == 0:
       value = 0.35 * evaluation1(board,color) + 0.20 * evaluation2(board,color) + 0.15 * evaluation3(board,color) + 0.2 * evaluation4(board,color) + 0.1 * evaluation5(board, color)
-      #value = evaluation1(board,color)
     else:
-      #value = evaluation1(board,color)
       value = 0.35 * evaluation1(board,gamePlay.getOpponentColor(color)) + 0.20 * evaluation2(board,gamePlay.getOpponentColor(color)) + 0.15 * evaluation3(board,gamePlay.getOpponentColor(color)) + 0.2 * evaluation4(board,gamePlay.getOpponentColor(color)) + 0.1 * evaluation5(board, gamePlay.getOpponentColor(color))
   else:
     if depth%2 == 0:
@@ -149,7 +145,6 @@ def evaluation(board, color, depth, time):
     else:
       value = 0.6 * evaluation1(board,gamePlay.getOpponentColor(color)) + 0.4 * evaluation2(board, gamePlay.getOpponentColor(color))
   return value
-
 
 def nextMove(board, color, time, movesRemaining): 
   #generates all the possible moves from the current state of board   
