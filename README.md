@@ -5,3 +5,4 @@ Checkers: Developed an agent which choses the next best move using alpha beta pr
 
 Robot world: Implement various graph search algorithms on the robot hand world.
 
+Genetic Algorithm: Developed a algorithm to solve the knapsack 0/1 problem.
