@@ -1,0 +1,5 @@
+Akashs-MacBook-Pro-2:Knap Aki$ python knapsack.py 
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 18 with high score 163.0 and chromosome [1 0 0 1 1 0 1 1 0 1 1 0 0 0 1 0 0 1 0 0 0]
+Best year for difficulty hard is 49 with high score 16695.1631711 and chromosome [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 1 1 1 0 1 1 1 1 1 0 1 1 1 1 0 0 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 0 1 1 0 1 1 0 1 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 0 0 0 1 1 0 1 1 0 1 0 1 1 0 1 1 1 1 1 1]
